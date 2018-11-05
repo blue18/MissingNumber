@@ -18,7 +18,6 @@ public class MissingNumber {
     // Will traverse the list
     int itr = 0;
 
-    // Fill the array with data
     for (int i = firstNumber; i <= list.length + 1; i++) {
 
       // if sequential number is not in the list, then display the missing number
