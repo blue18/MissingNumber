@@ -32,8 +32,5 @@ public class MissingNumber {
       // Go to the next element in the list
       itr++;
     }
-
-
-
   }
 }
