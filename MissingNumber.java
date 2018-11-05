@@ -1,4 +1,5 @@
-// How do you find the missing number in a given integer array of 1 to 100? (solution)
+// November 4, 2018
+// Finding the missing number in a given integer array.
 
 import java.io.*;
 import java.util.*;
